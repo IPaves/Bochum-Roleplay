@@ -2,7 +2,7 @@
 
 ### §1.0 Maximale Anzahl der Fraktionsmitglieder
 
-- **Staatsfraktionen:** 30
+- **Staatsfraktionen:** 35
 - **Neutrale Fraktionen:** 30
 - **Badfraktionen:** 15
 
