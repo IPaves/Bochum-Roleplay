@@ -1,6 +1,6 @@
 # Allgemein
 
-### §1.0 Maximale Anzahl der Fraktionsmitglieder
+## §1.0 Maximale Anzahl der Fraktionsmitglieder
 
 - **Staatsfraktionen:** 30
 - **Neutrale Fraktionen:** 30
@@ -71,7 +71,7 @@ Für eine Stürmung benötigt einen guten RP-Hintergrund mit einem vollständige
 Sollte sich eine Fraktion entscheiden, sich auflösen zu wollen, dann muss der ganze bisherige Bestand gerecht unter den Mitgliedern aufgeteilt, oder beim High-Team abgeben werden. Sollte dies nicht getan werden, wird die jeweilige Leitung bestraft.
 
 
-### §2.0 Leaderwechsel
+## §2.0 Leaderwechsel
 
 Die Übergabe der Führungsebene (12er) oder eine Stürzung des Leaders muss bei der Fraktionsverwaltung angemeldet und genehmigt werden.
 
