@@ -63,7 +63,7 @@ Wird eine Person im Support IC angesprochen, ist sie selbst dafür verantwortlic
 Die Verwendung von Clips im IC ist nur zulässig, wenn das Aufnahmegerät (z. B. Bodycam) deutlich sichtbar am Körper oder an der Kleidung angebracht ist. Versteckte Kameras sind nicht gestattet. _Ausnahme:_ Diese Regel gilt nicht für Supportfälle im Support.
 
 
-### §1.6 Bugusing
+### §1.6 Bugabusing
 
 Strengstens verboten ist das absichtliche Ausnutzung von Fehlern oder Schwachstellen (Bugs) im Spiel, um sich einen unfairen Vorteil zu verschaffen. Dies kann dazu führen, dass ein Spieler das Roleplay auf eine Weise spielt, die von den Entwicklern nicht vorgesehen ist, was die Spielbalance und das faire Spielerlebnis stört.
 
@@ -96,7 +96,7 @@ Ein striktes Gambo-Verhalten wird unter keinen Umständen toleriert. Dies umfass
 Sollte ein Spieler verbluten und anschließend im Medical Department aufwachen, ist es ihm untersagt, sich an die letzte RP-Situation zu erinnern oder daran teilzunehmen. Zudem ist es ihm für die nächsten 15 Minuten nicht gestattet, sich in ein Schussgefecht zu begeben. Falls ein Spieler über die vorherige Situation informiert wird, dürfen lediglich teilweise Erinnerungen daran bestehen.
 
 
-### §2.1 Relife Regel
+### §2.1 Realife Regel
 
 Sollte ein Spieler bewusstlos sein und anschließend von einem Medic wiederbelebt werden, ist es ihm untersagt, aktiv an der gleichen RP-Situation teilzunehmen. Dies schließt jedoch nicht das Sprechen, Fahren oder das Tragen von/mit anderen Spielern ein. Bei einer Wiederbelebung darf man sich nur schwammig an die vorherige RP-Situation erinnern.
 
@@ -171,7 +171,7 @@ Das Durchsuchen erfordert immer einen konkreten RP-Hintergrund sowie eine anspre
 * Shop Gegenstände (Schwarzmarkt, Tracker und Handy ausgeschlossen)
 * Staatliche Gegenstände (z. B. Tazer, Kampfpistole, Staatsweste)
 
-Ohnmächtige bzw. tote Personen werden nicht am Boden durchsucht. Ebenso wird diesen nichts entzogen.
+Ohnmächtige bzw. tote Personen wird nichts entzogen.
 
 
 ### §3.1 Soundboards
